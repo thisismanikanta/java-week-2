@@ -9,4 +9,4 @@ public static void main(String []args)
  System.out.println("sum is:"+add(5,2));
 }
 }
-  
+  output:sum is:7
