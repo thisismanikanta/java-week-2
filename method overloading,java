@@ -15,3 +15,5 @@ public static void main(String []args)
  m.mul(4,6,2);
 }
 }
+output: multiplication is: 24
+        multiplication is: 48
