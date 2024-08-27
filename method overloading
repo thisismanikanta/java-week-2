@@ -1,0 +1,17 @@
+// write a program to print method overloading
+class Mol{
+void mul(int a,int b)
+{
+ System.out.println("multiplication is: "+(a*b));
+}
+void mul(int a,int b,int c)
+{
+ System.out.println("multiplication is: "+(a*b*c));
+}
+public static void main(String []args)
+{
+ Mol m=new Mol();
+ m.mul(4,6);
+ m.mul(4,6,2);
+}
+}
